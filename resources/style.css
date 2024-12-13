@@ -1,0 +1,45 @@
+html {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+h1 {
+  font-family: verdana, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+}
+.dl {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+h2 {
+  font-family: verdana, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+}
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+img {
+  position: relative;
+  display: vertical;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+img #tel {
+  margin-top: 20px;
+  position: relative;
+  display: vertical;
+  justify-content: center;
+  align-items: center;
+  max-height: 64px;
+  max-width: 108px;
+}
+footer {
+  text-align: right;
+  color: gray;
+}
